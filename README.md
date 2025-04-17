@@ -1,7 +1,5 @@
 # Email Spam Detection with Machine Learning
 
-**Oasis Infobyte Internship Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
-
 ![MasterHead](https://www.easyspace.com/blog/wp-content/uploads/2019/03/spam-1.png)
 
 <font size="1">Image Courtesy: https://www.easyspace.com/blog/wp-content/uploads/2019/03/spam-1.png</font>
@@ -81,14 +79,3 @@ In conclusion, this project has demonstrated that machine learning, combined wit
 Email inboxes are now a safer place, thanks to the successful implementation of our email spam detection system. As we conclude this project, we look forward to continued improvements and innovations in email security.
 
 Let's keep our inboxes spam-free and our communications secure.
-
----
-
-## Author
-
-- [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
-
----
-
-## Reference
- - [Oasis Infobyte](https://oasisinfobyte.com/)
