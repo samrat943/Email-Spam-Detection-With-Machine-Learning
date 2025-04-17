@@ -3,7 +3,7 @@
 ![MasterHead](https://www.easyspace.com/blog/wp-content/uploads/2019/03/spam-1.png)
 
 Click on the following link to checkout the colab file
-- https://colab.research.google.com/drive/1ggzEa68D7EJ3zerlhMqZAXv5_kC85bYg?usp=sharing](https://colab.research.google.com/drive/17-D2CkPYEnP8sdtyBTkhnAB9gcotgciS?usp=sharing
+- https://colab.research.google.com/drive/1ggzEa68D7EJ3zerlhMqZAXv5_kC85bYg?usp=sharing
 
 
 ---
